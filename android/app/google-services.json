@@ -1,0 +1,145 @@
+{
+  "project_info": {
+    "project_number": "202858748351",
+    "firebase_url": "https://carmate-staging-146521.firebaseio.com",
+    "project_id": "carmate-staging-146521",
+    "storage_bucket": "carmate-staging-146521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202858748351:android:29a664337f213614",
+        "android_client_info": {
+          "package_name": "com.carmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202858748351-enr9jqosm6qf2sd50l62nmluqbsau225.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carmate",
+            "certificate_hash": "0cd104f8e13fede44185696145f66c7b3a3d2bd5"
+          }
+        },
+        {
+          "client_id": "202858748351-28suqdvq4tt0v8s3ldpmj54r3dccqa87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carmate",
+            "certificate_hash": "6b6182d04b1c00fe7f16b5f84489f11746124436"
+          }
+        },
+        {
+          "client_id": "202858748351-idtgc5otc0cgodd5161f2ovcplknmv49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carmate",
+            "certificate_hash": "83261414f1ee0de6d99cf2ac79f9091bb2cbacb6"
+          }
+        },
+        {
+          "client_id": "202858748351-qo6kq6p7u5kksa3hefu63hh82ko8q7is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSgRROVd5Vz1pqB199C1wnBiN8Y-vmrzs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202858748351-f5mnb65qkl3tgn3nlh3ol7q8t4dpfaqp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "202858748351-kb1h9p6jlgefql228h11osl0kiik6tle.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.carmatenz.staging"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202858748351:android:0c3ebf8847ec8f57",
+        "android_client_info": {
+          "package_name": "com.carmatenz.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202858748351-lk0918ve7ka5licrgnptrqs5natckvei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carmatenz.staging",
+            "certificate_hash": "6b6182d04b1c00fe7f16b5f84489f11746124436"
+          }
+        },
+        {
+          "client_id": "202858748351-6lt1m4212tn3b27q77uqbl5nistlpptg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carmatenz.staging",
+            "certificate_hash": "83261414f1ee0de6d99cf2ac79f9091bb2cbacb6"
+          }
+        },
+        {
+          "client_id": "202858748351-agae6h1bnpd2o7e67ro6rumlfvdj8pn8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carmatenz.staging",
+            "certificate_hash": "df17f0d998618522fb4b78c5dbb39fda0013b7ec"
+          }
+        },
+        {
+          "client_id": "202858748351-qo6kq6p7u5kksa3hefu63hh82ko8q7is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSgRROVd5Vz1pqB199C1wnBiN8Y-vmrzs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202858748351-f5mnb65qkl3tgn3nlh3ol7q8t4dpfaqp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "202858748351-kb1h9p6jlgefql228h11osl0kiik6tle.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.carmatenz.staging"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
